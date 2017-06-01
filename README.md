@@ -27,7 +27,7 @@ Following diagram show Process Control Chart Data Roles.
 
 ## Process Control Chart Capability Options
 
-Process Control Chart Visual provides eleven Capability Option groups highlighted in the figure below. These include 6 capability groupes to control visual components which are "Series", "Mean Line", "Control Line", "One Sigma Line", "Two Sigma Line", "Control Labels". In addition there are 5 more capability groupes to control Westgard Rules which are "Westgard 1S3","Westgard 2S2","Westgard RS4","Westgard 4S1", "Westgard 10X".
+Process Control Chart Visual provides eleven Capability Option groups highlighted in the figure below. These include 6 capability groups to control visual components which are "Series", "Mean Line", "Control Line", "One Sigma Line", "Two Sigma Line", "Control Labels". In addition there are 5 more capability groups to control Westgard Rules which are "Westgard 1S3","Westgard 2S2","Westgard RS4","Westgard 4S1", "Westgard 10X".
 
 Following diagram show Process Control Chart Capability Options.
 
