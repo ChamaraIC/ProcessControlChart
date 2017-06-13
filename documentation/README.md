@@ -2,7 +2,7 @@
 ​
 These include 6 capability groups to control visual components which are "Series", "Mean Line", "Control Line", "One Sigma Line", "Two Sigma Line", "Control Labels". In addition there are 5 more capability groups to control Westgard Rules which are "Westgard 1S3","Westgard 2S2","Westgard RS4","Westgard 4S1", "Westgard 10X".<br><br>
 Following diagram shows Process Control Chart Capability Options.<br><br>
-<img src="documentation/images/ControlChartCapabilityOptions.png" alt="Drawing" width="300px"><br><br>
+<img src="images/ControlChartCapabilityOptions.png" alt="Drawing" width="300px"><br><br>
 Read more about each of the capability options,
  
  1. [Series](Series.md)
