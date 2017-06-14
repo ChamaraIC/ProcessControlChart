@@ -1,4 +1,3 @@
-
 # Process Control Chart Capability Options
 
 ## Mean Line
@@ -8,4 +7,4 @@
 
 | Figure 1. “Mean Line” Settings. | Figure 2. Process Control Chart with custom Color and Thickness for "Mean Line". |
 |---|---|
-| <img src="images/MeanLine.png" alt="Drawing" width="200px">  | <img src="images/MeanLineSample.png" alt="Drawing" width="300px"> |
+| <img src="images/MeanLine.png" alt="Drawing" width="200px">  | <img src="images/MeanLineSample.png" alt="Drawing" width="500px"> |
