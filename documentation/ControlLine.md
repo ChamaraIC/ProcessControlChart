@@ -1,4 +1,3 @@
-
 # Process Control Chart Capability Options
 
 ## Control Line
@@ -8,4 +7,4 @@
 
 | Figure 1. “Control Line” Settings. | Figure 2. Process Control Chart with custom Color and Thickness for "Control Line". |
 |---|---|
-| <img src="images/ControlLine.png" alt="Drawing" width="200px">  | <img src="images/ControlLineSample.png" alt="Drawing" width="300px"> |
+| <img src="images/ControlLine.png" alt="Drawing" width="200px">  | <img src="images/ControlLineSample.png" alt="Drawing" width="500px"> |
